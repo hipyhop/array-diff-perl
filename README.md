@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/hipyhop/array-diff-perl.svg?branch=travisci)](https://travis-ci.org/hipyhop/array-diff-perl)
+
 This is Perl module Array::Diff.
 
 INSTALLATION
